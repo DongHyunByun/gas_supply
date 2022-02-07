@@ -10,7 +10,7 @@
 1. **기술스택**  
     1. 개발환경 : python.   
     2. 전처리 : pandas, numpy, plt, sns, pickle, itertools, sklearn. 
-    3. boosting : LSTM, prophet, LGBMRegressor, DecisionTreeRegressor, RandomForestRegressor, XGBRegressor.   
+    3. model : LSTM, prophet, LGBMRegressor, DecisionTreeRegressor, RandomForestRegressor, XGBRegressor.   
     
 1. **내용 : 가스 공급량 수요예측**  
     1. 가스 사용량 예측 (시계열 예측 대회)
